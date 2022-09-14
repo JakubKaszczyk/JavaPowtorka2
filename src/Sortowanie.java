@@ -23,6 +23,23 @@ public class Sortowanie {
         }
     }
 
+    /******************************************************
+
+     * nazwa funkcji: szukajMaksymalnie
+     * parametry wejściowe: k - indeks początku przeszukiwaniea w tablicy
+     * wartość zwracana: szukany indeks posortowany
+     * autor: 000000000
+
+
+
+
+
+
+
+
+   ******************************************************/
+
+
     private int szukajMaksymalnej(int k) {
 
         int szukanyIndeks = k;
